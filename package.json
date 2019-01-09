@@ -1,0 +1,19 @@
+{
+  "name": "snap-local-storage",
+  "version": "1.0.0",
+  "description": "Snapshot & Restore localStorage Chrome extension",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jungyoun/snap-local-storage.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jungyoun/snap-local-storage/issues"
+  },
+  "homepage": "https://github.com/jungyoun/snap-local-storage#readme"
+}

@@ -1,0 +1,49 @@
+#stk_article_box {
+	position:fixed;
+	top:20px;
+	left:0;
+	right:0;
+	width:600px;
+	height:500px;
+	overflow-y:auto;
+	overflow-x:hidden;
+	background-color:white;
+	border:2px solid black;
+	text-align:left;
+	padding:20px;
+	
+	z-index:99999;
+}
+#stk_title {
+	font-size:20pt;
+	line-height:1.4;
+	margin-top:20px;
+	
+}
+#stk_article {
+	margin-top:40px;
+	font-size:16pt;
+	line-height:1.6;
+	margin-bottom:30px;
+}
+
+#stk_popup_bg {
+	position:fixed;
+	top:0;
+	left:0;
+	background-color:black;
+	opacity:0.5;
+	width:100%;
+	height:100%;
+	z-index:99998;
+}
+.stk_buttons {
+}
+.stk_buttons button {
+	font-size:14pt;
+	margin-right:12px;
+	background: #80B600;
+	color: #fff;
+	padding: 3px 20px 4px 20px;
+	border:0;
+}
